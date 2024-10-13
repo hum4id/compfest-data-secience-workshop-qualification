@@ -1,2 +1,2 @@
-![Top 20 Company]("Top company.png")
-![Top 20 Company]("tren rerata budget.png")
+![Top 20 Company](Topcompany.png)
+![Rerata Budget tiap tahun](tren-rerata-budget.png)
